@@ -142,7 +142,7 @@ model.fit(x_train, y_train,
           validation_data=(x_test, y_test))
 ```
 
-#实践
+# 实践
 ## 数据对接
 在`git clone`Keras之后，Keras中有一个利用CNN来训练mnist数据集的[examples](https://github.com/fchollet/keras/blob/master/examples/mnist_cnn.py)。
 
