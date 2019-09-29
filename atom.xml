@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://whpointz.github.io/</id>
     <title>Wenhao Blog</title>
-    <updated>2019-09-29T17:03:48.678Z</updated>
+    <updated>2019-09-29T17:05:41.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://whpointz.github.io/"/>
     <link rel="self" href="https://whpointz.github.io//atom.xml"/>
@@ -10,4 +10,15 @@
     <logo>https://whpointz.github.io//images/avatar.png</logo>
     <icon>https://whpointz.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Wenhao Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[ConcurrentQueue的使用和理解]]></title>
+        <id>https://whpointz.github.io//post/concurrentqueue-de-shi-yong-he-li-jie</id>
+        <link href="https://whpointz.github.io//post/concurrentqueue-de-shi-yong-he-li-jie">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>本着先熟练使用轮子，后续才能造轮子的心态，本文记录了并发队列的使用。</li>
+</ul>
+]]></content>
+    </entry>
 </feed>
